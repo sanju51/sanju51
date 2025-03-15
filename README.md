@@ -4,7 +4,7 @@
 # 💫 About Me:  
 ![](https://komarev.com/ghpvc/?username=sanju51&label=Profile+views&style=for-the-badge&color=0e75b6)
 
-- 🔭 I’m currently working on **Sanghamitra**.
+- 🔭 I’m currently working on **MERN stack**.
 - 🌱 I’m currently learning **Java, JavaScript, Python, DSA, MERN**.
 - 🔝 I’m looking to collaborate on **Backend Development projects**.
 - ✨ Hobbies: Exploring new tech, reading, and video games.
@@ -13,10 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjana%20b%20u)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/sanjanabu47)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanju_bu)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-%233D2C02.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/sanjanabu47)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sanjanabu47)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/sanjanabu47)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2318BE36.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sanjanbxqg)
 
 ### ⚒️ Tech Stack:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?logo=docker&logoColor=white)
